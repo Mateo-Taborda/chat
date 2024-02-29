@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Messenger</string>
+    <string name="hint">enter a message</string>
+    <string name="send">send</string>
+    <string name="title_activity_recibe_mensaje">RecibeMensaje</string>
+    <string name="chat"> </string>
+</resources>
